@@ -1,0 +1,9 @@
+nav {
+  background-color: red;
+}
+.links-container {
+  width: 25%;
+  display: flex;
+  justify-content: right;
+}
+/*# sourceMappingURL=nav.css.map */
